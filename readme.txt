@@ -6,3 +6,5 @@ This dataset is interesting to us because it helps us understand the essential f
 
 Our Reseach Question is :
 “Is there a difference in the mean of  lung capacity  between individuals  born via cesarean section and those born via normal delivery?
+
+We chose ONE independent * and ONE dependent variable . Our  Independent variable is:  cesarean This  Independent variable datatype is : NominalOur Dependent variable is: lung capacity This Dependent variable datatype is  (select one): Ratio
