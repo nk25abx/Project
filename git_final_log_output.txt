@@ -1,0 +1,120 @@
+commit 64a8cee6806a294c16dda45078e5f7c4b6f91c87
+Author: sp25afe <sp25afe@herts.ac.uk>
+Date:   Fri Dec 12 14:27:52 2025 +0000
+
+    Updated evaluation 5.4 & 5.6
+
+commit 9c3a1e5a58ea16cd9058480dc0092975d553866a
+Author: sp25afe <sp25afe@herts.ac.uk>
+Date:   Fri Dec 12 13:57:09 2025 +0000
+
+    Updated introduction 1.1 from feedback.  Updated references.
+
+commit 44b0df5215603ab46c2104f654ab585c4f05f80f
+Author: dp18abz <115548394+dp18abz@users.noreply.github.com>
+Date:   Fri Dec 12 13:23:54 2025 +0000
+
+    Feedback on Introduction TRDP draft 1
+
+commit 00b21822f7250a1776bd432a0c823593bfd33595
+Author: sp25afe <sp25afe@herts.ac.uk>
+Date:   Fri Dec 12 13:22:14 2025 +0000
+
+    draft 1 and references - need feedback
+
+commit 031c9aa18de168ac2551511bd8b73638be2f66e2
+Author: dp18abz <115548394+dp18abz@users.noreply.github.com>
+Date:   Thu Dec 11 16:10:35 2025 +0000
+
+    Final Visualization and Analysis
+    
+    File contains - Visualization, Analysis, References used and Appendix ( R Code and Git Log output)
+
+commit 1595e8d4f36ffa7d28164a1564c415c0c046e81c
+Author: dp18abz <115548394+dp18abz@users.noreply.github.com>
+Date:   Thu Dec 11 15:46:47 2025 +0000
+
+    added git log output
+
+commit 8fd40d7a3513fe90c1c5157b6c482b43c51b94af
+Merge: b61339a c8edad2
+Author: dp18abz <115548394+dp18abz@users.noreply.github.com>
+Date:   Thu Dec 11 15:31:03 2025 +0000
+
+    Merge pull request #1 from nk25abx/dp18abz-patch-1
+    
+    GraphAdd- Boxplot and histogram
+
+commit b61339af845a6f201908770086938826712afe6c
+Author: dp18abz <115548394+dp18abz@users.noreply.github.com>
+Date:   Thu Dec 11 15:28:09 2025 +0000
+
+    lungcapacity- final-Rfile
+    
+    All updates have been completed; meaningful comments were added, and suitable plots were adjusted.
+
+commit 8531c7671abdd5a255efa5767611cf51a1835e5e
+Author: dp18abz <115548394+dp18abz@users.noreply.github.com>
+Date:   Thu Dec 11 14:31:45 2025 +0000
+
+    Adding Dataset
+
+commit c8edad23c0ea30b4f293e226c34a3480c99af572
+Author: dp18abz <115548394+dp18abz@users.noreply.github.com>
+Date:   Thu Dec 11 14:20:48 2025 +0000
+
+    Add files via upload
+
+commit 77a5377d8e057a15c1dfacc34483fb84a5c779bd
+Author: dp18abz <115548394+dp18abz@users.noreply.github.com>
+Date:   Tue Dec 9 15:35:27 2025 +0000
+
+    Add files via upload
+
+commit a98bede079cb56c0f56e84907e37e831cdd45e78
+Author: NOOR <nk25abx@herts.ac.uk>
+Date:   Sun Dec 7 14:08:29 2025 +0000
+
+    Added full Code
+
+commit ec329cc0b24adfab1dec5275d9493c376c1368c8
+Author: NOOR <nk25abx@herts.ac.uk>
+Date:   Sun Dec 7 13:40:29 2025 +0000
+
+    Added Code
+
+commit cb99e73a29ce2c827d6e29748ac467f5328c10be
+Author: NOOR <nk25abx@herts.ac.uk>
+Date:   Sun Dec 7 13:26:01 2025 +0000
+
+    Followed Template 2
+
+commit 844c3a4fcc6ff33394a74e27630759e886b2b852
+Author: NOOR <nk25abx@herts.ac.uk>
+Date:   Sun Dec 7 13:02:17 2025 +0000
+
+    Added Dependent and Independent Variables
+
+commit 35869f2a3fe32dc763783e3d08366c726c0c7ca5
+Author: NOOR <nk25abx@herts.ac.uk>
+Date:   Sun Dec 7 12:57:12 2025 +0000
+
+    Added Research Question
+
+commit c7f231459838a6bab8ba54d43a03fb08db03f670
+Author: NOOR <nk25abx@herts.ac.uk>
+Date:   Sun Dec 7 12:54:03 2025 +0000
+
+    My third commit
+
+commit 8b8ee3deee21ec8dcf58c0917f3f2ba536fb86e6
+Author: NOOR <nk25abx@herts.ac.uk>
+Date:   Sun Dec 7 12:51:27 2025 +0000
+
+    My second commit
+
+commit 5c5bc770d8c3b1b7a8f7a7ffe86f91a4fd0f9c25
+Author: NOOR <nk25abx@herts.ac.uk>
+Date:   Sun Dec 7 12:41:17 2025 +0000
+
+    My first Commit
